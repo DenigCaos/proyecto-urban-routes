@@ -4,7 +4,7 @@ Este código de pruebas automatizadas para una aplicación de servicio
 Urban-Routes de taxi o transporte que proporcionan métodos para interactuar
 con la interfaz de usuario de la aplicación.
 
-Se crearon dos archivos, el archivo main.py donde se desarrollan todos lo
+Se crearon cuatro archivos, los archivos main.py, urban routepage.py, helpers.py donde se desarrollan todos los
 metodos y el archivo data.py donde se declaran todos los valores de la variables.
 
 Se definieron los localizadores y métodos necesarios en la clase UrbanRoutesPage
@@ -40,7 +40,8 @@ click_botton_round(self): Simula un clic en el botón que probablemente inicia
 la búsqueda de un taxi o un viaje en la aplicación.
 
 click_confort_select(self): Simula un clic en una opción de selección de confort,
-que podría ser una clase de servicio de taxi como económico, estándar, o de lujo.
+que podría ser una clase de servicio de taxi como económico, estándar, o de lujo. 
+
 
 click_phone_number_home_page(self): Simula un clic en el botón para ingresar un
 número de teléfono en la página principal.
