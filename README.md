@@ -96,3 +96,7 @@ registrar el rendimiento, necesario para la función retrieve_phone_code.
 
 test_set_route(self): Realiza una prueba automatizada que navega a una URL específica
  y realiza acciones en la página utilizando la clase UrbanRoutesPage.
+
+ Tecnologias :
+   Phyton
+   postman
